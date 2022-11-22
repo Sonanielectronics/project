@@ -1,0 +1,2 @@
+24-09
+    ALTER TABLE `users` ADD `account_type_id` INT(11) NOT NULL AFTER `avatar_id`;
